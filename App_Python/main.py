@@ -42,12 +42,6 @@ if uploaded_file:
                 st.write("OLS Regression Results")
                 model = sm.OLS(Y, X).fit()
                 st.write(model.summary())
-
-                # Next, check R vs Python project
-                # Save results for Results_Comparison.txt
-                # csv file's path: R_Folder/data.csv
-                with open('Results_Comparison/Python_output.txt', 'w') as file:
-                    file.write(model.summary().as_text())
             
 
 
