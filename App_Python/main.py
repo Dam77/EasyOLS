@@ -42,6 +42,9 @@ if uploaded_file:
                 st.write("OLS Regression Results")
                 model = sm.OLS(Y, X).fit()
                 st.write(model.summary())
+
+
+st.write("[Github Link](https://github.com/Dam77/EasyOLS)")
             
 
 
