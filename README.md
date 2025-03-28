@@ -3,7 +3,7 @@ Hi there! I’m Damien Lebas, an economics student with a deep love for statisti
 
 I always try to push my skills further, and one way I do that is by using Python to solve almost all my exercises, even when it’s not required. This project is part of my portfolio because, honestly, I think it’s one of the coolest things I’ve done so far!
 
-As someone who dreams of becoming a data analyst or data scientist, this project is my way of showing that I have solid econometric and statistical skills. Let me walk you through it. 👇
+As someone who dreams of becoming a data analyst or data scientist, this project is my way of showing that I have solid econometric and statistical skills. Let me walk you through it.
 
 
 Why This Project?
@@ -60,7 +60,7 @@ The App folder shows that I can create tools that make econometrics accessible t
 
 If you’re a student, researcher, or recruiter, I hope this project gives you a good idea of my passion and abilities. Feedback is always welcome!
 
-Thank you for taking the time to explore my work. 😊
+Thank you for taking the time to explore my work.
 Feel free to reach out if you have any questions or suggestions!
 
 website: https://damienlebas.com
